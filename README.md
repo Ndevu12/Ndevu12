@@ -14,10 +14,10 @@ I'm Ndevu, a tech enthusiast with a passion for tackling challenging problems an
 
 ### Skills and Passions
 
-- Programming: Proficient in various programming languages and always eager to learn more.
-- Web Development: Skilled in creating dynamic and responsive web applications.
-- Software Engineering: Enjoy designing and developing efficient software solutions.
-- Problem-Solving: Thrilled by the challenge of solving complex problems and finding innovative solutions.
+- **Programming:** Proficient in various programming languages and always eager to learn more.
+- **Web Development:** Skilled in creating dynamic and responsive web applications.
+- **Software Engineering:** Enjoy designing and developing efficient software solutions.
+- **Problem-Solving:** Thrilled by the challenge of solving complex problems and finding innovative solutions.
 
 ### Fun Fact
 
