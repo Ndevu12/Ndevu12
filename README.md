@@ -10,7 +10,7 @@
 
 ### Welcome to My Profile.
 
-I'm Ndevu, a tech enthusiast with a passion for tackling challenging problems and advancing technological innovations. I have a strong interest in software engineering and web development.
+I'm Ndevu, a tech enthusiast passionate about tackling challenging problems and advancing technological innovations. I have a strong interest in software engineering and web development.
 
 ### Skills and Passions
 
