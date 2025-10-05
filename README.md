@@ -10,7 +10,7 @@
 
 ### Welcome to My Profile.
 
-I'm Ndevu, a tech enthusiast passionate about tackling challenging problems and advancing technological innovations. I have a strong interest in software engineering and web development.
+I'm Jean Paul Elisa NIYOKWIZERWA, a tech enthusiast passionate about tackling challenging problems and advancing technological innovations. I have a strong interest in software engineering and web development.
 
 ### Skills and Passions
 
