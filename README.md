@@ -21,39 +21,39 @@
 
 ---
 
-### 🧑‍💻 Who am I?
+## Who am I?
 
 Call me, **Jean Paul Elisa NIYOKWIZERWA** — a full-stack software engineer calling **Kigali, Rwanda** home. Drawn to hard problems, clean systems, and the open-source way of doing things. Coaching **Data Structures & Algorithms** at the Rwanda Computing Olympiad — helping others see that tough challenges are worth embracing.
 
-- 🔭 Building in the open — contributing to open-source projects that make a difference. *Curious which? The repos tell the story.*
-- 🌱 Deep-diving into **Machine Learning**, **IoT**, and **AI Prototyping**
-- 🏆 Competitive Programmer & Algorithm Enthusiast
-- 🌍 Growing alongside communities that share the same drive to build and learn together
+- Building in the open — contributing to open-source projects that make a difference. *Curious which? The repos tell the story.*
+- Deep-diving into **Machine Learning**, **IoT**, and **AI Prototyping**
+- Competitive Programmer & Algorithm Enthusiast
+- Growing alongside communities that share the same drive to build and learn together
 
 ---
 
-### 📊 What the Code Says
+## What the Code Says
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ndevu12&show_icons=true&theme=tokyonight&bg_color=151515&title_color=6C63FF&icon_color=6C63FF&text_color=daf7dc&border_color=6C63FF&hide_border=false&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ndevu12&show_icons=true&theme=tokyonight&bg_color=151515&title_color=6C63FF&icon_color=6C63FF&text_color=daf7dc&border_color=6C63FF&hide_border=false&cache_seconds=86400" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ndevu12&theme=tokyonight&background=151515&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&border=6C63FF&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndevu12&layout=compact&theme=tokyonight&bg_color=151515&title_color=6C63FF&text_color=daf7dc&border_color=6C63FF&hide=css,html&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ndevu12&layout=compact&theme=tokyonight&bg_color=151515&title_color=6C63FF&text_color=daf7dc&border_color=6C63FF&hide=css,html&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 ---
 
-### 🏆 Milestones So Far
+## Milestones So Far
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ndevu12&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Ndevu12&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 📈 What Consistency Looks Like
+## 📈 What Consistency Looks Like
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndevu12&bg_color=151515&color=daf7dc&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" width="95%"/>
@@ -61,6 +61,6 @@ Call me, **Jean Paul Elisa NIYOKWIZERWA** — a full-stack software engineer cal
 
 ---
 
-### ⚡ One More Thing...
+## One More Thing...
 
-> *The hard stuff? Worth every bit of effort. That's what keeps it fun.*
+**The hard stuff? Worth every bit of effort. That's what keeps it fun.**
