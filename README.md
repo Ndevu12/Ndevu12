@@ -9,7 +9,7 @@
   <!-- Social Badges -->
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-paul-elisa/)
   [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyokwizerwajeanpaulelisa@gmail.com)
-  [![X / Twitter](https://img.shields.io/badge/-@elion55698906?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/elisa)
+  [![X / Twitter](https://img.shields.io/badge/-@elisa-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/elion55698906)
   [![Portfolio](https://img.shields.io/badge/-ndevuspace.com-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ndevuspace.com)
 
   <br/>
