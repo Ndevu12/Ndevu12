@@ -34,7 +34,7 @@
 <h3 align="center"><samp>Jean Paul Elisa NIYOKWIZERWA</samp></h3>
 
 <p align="center">
-  A full-stack software engineer calling <b>Kigali, Rwanda</b> home.<br/>
+  A full-stack software engineer.<br/>
   Drawn to hard problems, clean systems, and the open-source way of doing things.<br/>
   Coaching <b>Data Structures & Algorithms</b> at the Rwanda Computing Olympiad —<br/>
   helping others see that tough challenges are worth embracing.
@@ -45,13 +45,13 @@
 <table align="center">
 <tr><td>
 
-**`Open Source`** — Contributing to projects that make a difference. *Curious which? The repos tell the story.*
-
 **`Exploring`** — Machine Learning, IoT, and AI Prototyping
 
 **`Competing`** — Competitive Programming & Algorithm Challenges
 
 **`Community`** — Growing alongside those with a shared drive to build and learn
+
+**`Open Source`** — Contributing to projects that make a difference. *Curious which? The repos tell the story.*
 
 </td></tr>
 </table>
@@ -83,7 +83,7 @@
 
 <br/>
 
-<h2 align="center">Milestones So Far</h2>
+<!-- <h2 align="center">Milestones So Far</h2>
 
 <br/>
 
@@ -91,11 +91,11 @@
   <img src="https://github-trophies.vercel.app/?username=Ndevu12&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
-<br/>
+<br/> -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
-<br/>
+<!-- <br/>
 
 <h2 align="center">What Consistency Looks Like</h2>
 
@@ -109,7 +109,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
+<br/> -->
 
 <h2 align="center">One More Thing...</h2>
 
